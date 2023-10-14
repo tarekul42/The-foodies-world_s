@@ -1,0 +1,1891 @@
+[
+  {
+    "chef_id": "1",
+    "chef_picture": "chef1.jpg",
+    "chef_name": "John Smith",
+    "chef_bio": "Passionate about Australian cuisine and bringing local flavors to your table.",
+    "chef_description": "Experienced chef specializing in Australian dishes.",
+    "years_of_experience": 15,
+    "number_of_recipes": 10,
+    "likes": 5000,
+    "recipes": [
+      {
+        "recipe_id": "1",
+        "recipe_name": "Pavlova",
+        "recipe_picture": "pavlova.jpg",
+        "ingredients": [
+          "4 egg whites",
+          "1 cup caster sugar",
+          "1 tsp white vinegar",
+          "1 tsp vanilla extract",
+          "1 cup cream"
+        ],
+        "cooking_method": "Preheat oven to 150°C. Beat egg whites until stiff. Gradually add sugar, vinegar, and vanilla. Pile onto a baking tray and bake for 1 hour. Cool, then top with cream and fruit.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "2",
+        "recipe_name": "Lamingtons",
+        "recipe_picture": "lamingtons.jpg",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 tsp baking powder",
+          "1/2 cup unsalted butter",
+          "1 cup sugar",
+          "1/2 cup milk"
+        ],
+        "cooking_method": "Sift flour and baking powder. Cream butter and sugar. Add flour and milk, mix until smooth. Bake, cut into squares, dip in chocolate icing, and roll in desiccated coconut.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": "3",
+        "recipe_name": "Barramundi with Macadamia Crust",
+        "recipe_picture": "barramundi.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "1/2 cup crushed macadamia nuts",
+          "1/4 cup breadcrumbs",
+          "1 lemon zest",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Preheat oven to 180°C. Mix macadamia, breadcrumbs, and lemon zest. Coat barramundi with the mixture. Bake for 15 minutes. Serve with a side salad.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "4",
+        "recipe_name": "Kangaroo Steak",
+        "recipe_picture": "kangaroo.jpg",
+        "ingredients": [
+          "4 kangaroo steaks",
+          "2 cloves garlic, minced",
+          "1/4 cup olive oil",
+          "1 tsp dried thyme",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Marinate kangaroo steaks in garlic, olive oil, thyme, salt, and pepper. Grill to medium-rare. Serve with roasted vegetables.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "5",
+        "recipe_name": "Aussie Meat Pie",
+        "recipe_picture": "meat_pie.jpg",
+        "ingredients": [
+          "500g ground beef",
+          "1 onion, chopped",
+          "2 cups beef broth",
+          "2 tbsp tomato paste",
+          "Puff pastry sheets"
+        ],
+        "cooking_method": "Cook beef and onion, add broth and tomato paste. Simmer until thickened. Line pie dish with pastry, fill with meat mixture, cover with pastry, and bake until golden brown.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "6",
+        "recipe_name": "Tim Tam Slam",
+        "recipe_picture": "tim_tam.jpg",
+        "ingredients": [
+          "1 cup hot coffee",
+          "2 Tim Tams (chocolate biscuits)"
+        ],
+        "cooking_method": "Dip one end of a Tim Tam into the coffee and use it as a straw to drink the coffee. Enjoy the melting biscuit!",
+        "ratings": 4.4
+      },
+      {
+        "recipe_id": "7",
+        "recipe_name": "Anzac Biscuits",
+        "recipe_picture": "anzac_biscuits.jpg",
+        "ingredients": [
+          "1 cup rolled oats",
+          "1 cup desiccated coconut",
+          "1 cup plain flour",
+          "1 cup brown sugar",
+          "125g butter"
+        ],
+        "cooking_method": "Melt butter and golden syrup. Mix dry ingredients, add the butter mixture, and stir. Spoon onto a baking tray and bake until golden brown.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": "8",
+        "recipe_name": "Barramundi with Lemon Myrtle Sauce",
+        "recipe_picture": "barramundi2.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "2 tsp lemon myrtle",
+          "1/4 cup cream",
+          "1 lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Pan-fry barramundi, make a sauce with lemon myrtle, cream, lemon juice, salt, and pepper. Serve with steamed vegetables.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "9",
+        "recipe_name": "Vegemite Toast",
+        "recipe_picture": "vegemite_toast.jpg",
+        "ingredients": [
+          "2 slices of bread",
+          "Butter",
+          "Vegemite spread"
+        ],
+        "cooking_method": "Toast the bread, spread with butter, and add a thin layer of Vegemite. Enjoy with a cup of tea or coffee.",
+        "ratings": 4.2
+      },
+      {
+        "recipe_id": "10",
+        "recipe_name": "Pumpkin Soup",
+        "recipe_picture": "pumpkin_soup.jpg",
+        "ingredients": [
+          "1kg pumpkin, diced",
+          "1 onion, chopped",
+          "2 cups chicken stock",
+          "1/2 cup cream",
+          "Nutmeg, salt, and pepper"
+        ],
+        "cooking_method": "Simmer pumpkin and onion in chicken stock until soft. Blend, add cream, and season with nutmeg, salt, and pepper.",
+        "ratings": 4.6
+      }
+    ]
+  },
+  {
+    "chef_id": "2",
+    "chef_picture": "chef2.jpg",
+    "chef_name": "Emma Davis",
+    "chef_bio": "Bringing the diverse flavors of Australia to your kitchen.",
+    "chef_description": "Passionate about creating mouthwatering Australian dishes.",
+    "years_of_experience": 12,
+    "number_of_recipes": 10,
+    "likes": 4800,
+    "recipes": [
+      {
+        "recipe_id": "11",
+        "recipe_name": "Kangaroo Kebabs",
+        "recipe_picture": "kangaroo_kebabs.jpg",
+        "ingredients": [
+          "500g kangaroo meat",
+          "Bell peppers",
+          "Red onion",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "cooking_method": "Marinate kangaroo meat with olive oil and lemon juice. Skewer with bell peppers and red onion. Grill to perfection.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "12",
+        "recipe_name": "Barramundi Tacos",
+        "recipe_picture": "barramundi_tacos.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Taco shells",
+          "Coleslaw",
+          "Sour cream",
+          "Lime wedges"
+        ],
+        "cooking_method": "Pan-fry barramundi, fill taco shells with coleslaw and barramundi, top with sour cream and serve with lime wedges.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": "13",
+        "recipe_name": "Bush Tomato Chutney",
+        "recipe_picture": "bush_tomato_chutney.jpg",
+        "ingredients": [
+          "250g bush tomatoes",
+          "1 onion, chopped",
+          "1/2 cup brown sugar",
+          "1/4 cup vinegar",
+          "Spices"
+        ],
+        "cooking_method": "Simmer bush tomatoes, onion, sugar, and vinegar. Add spices. Cook until thickened. Serve as a condiment.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "14",
+        "recipe_name": "Kangaroo Meatballs",
+        "recipe_picture": "kangaroo_meatballs.jpg",
+        "ingredients": [
+          "500g ground kangaroo meat",
+          "Breadcrumbs",
+          "Onion, minced",
+          "Garlic, minced",
+          "Herbs and spices"
+        ],
+        "cooking_method": "Combine kangaroo meat, breadcrumbs, onion, garlic, and herbs. Roll into meatballs and bake until cooked through.",
+        "ratings": 4.3
+      },
+      {
+        "recipe_id": "15",
+        "recipe_name": "Bunya Nut Soup",
+        "recipe_picture": "bunya_nut_soup.jpg",
+        "ingredients": [
+          "2 cups bunya nuts",
+          "Onion, chopped",
+          "Garlic, minced",
+          "Vegetable broth",
+          "Cream"
+        ],
+        "cooking_method": "Boil bunya nuts until soft. Sauté onion and garlic, add bunya nuts, vegetable broth, and cream. Blend until smooth.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "16",
+        "recipe_name": "Crocodile Skewers",
+        "recipe_picture": "crocodile_skewers.jpg",
+        "ingredients": [
+          "500g crocodile meat",
+          "Bell peppers",
+          "Red onion",
+          "Lemon juice",
+          "Spices"
+        ],
+        "cooking_method": "Marinate crocodile meat with lemon juice and spices. Skewer with bell peppers and red onion. Grill to perfection.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": "17",
+        "recipe_name": "Macadamia Nut Butter",
+        "recipe_picture": "macadamia_butter.jpg",
+        "ingredients": [
+          "2 cups roasted macadamia nuts",
+          "Honey",
+          "Salt",
+          "Olive oil"
+        ],
+        "cooking_method": "Blend roasted macadamia nuts with honey, salt, and olive oil until smooth. Use as a spread.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "18",
+        "recipe_name": "Wattleseed Bread",
+        "recipe_picture": "wattleseed_bread.jpg",
+        "ingredients": [
+          "3 cups flour",
+          "1/2 cup wattleseed flour",
+          "1 tsp yeast",
+          "1 1/2 cups water",
+          "Salt"
+        ],
+        "cooking_method": "Mix flour, wattleseed flour, yeast, and salt. Add water and knead. Let rise and bake until golden brown.",
+        "ratings": 4.5
+      },
+      {
+        "recipe_id": "19",
+        "recipe_name": "Lemon Myrtle Prawns",
+        "recipe_picture": "lemon_myrtle_prawns.jpg",
+        "ingredients": [
+          "500g prawns",
+          "Lemon myrtle leaves",
+          "Olive oil",
+          "Lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Marinate prawns with olive oil, lemon myrtle leaves, lemon juice, salt, and pepper. Grill until cooked.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "20",
+        "recipe_name": "Eucalyptus Tea",
+        "recipe_picture": "eucalyptus_tea.jpg",
+        "ingredients": [
+          "Eucalyptus leaves",
+          "Hot water",
+          "Honey"
+        ],
+        "cooking_method": "Steep eucalyptus leaves in hot water, add honey to taste. A soothing and aromatic tea.",
+        "ratings": 4.3
+      }
+    ]
+  },
+  {
+    "chef_id": "3",
+    "chef_picture": "chef3.jpg",
+    "chef_name": "Michael Brown",
+    "chef_bio": "A culinary journey through the flavors of Australia.",
+    "chef_description": "Committed to creating authentic Australian dishes.",
+    "years_of_experience": 18,
+    "number_of_recipes": 10,
+    "likes": 5500,
+    "recipes": [
+      {
+        "recipe_id": "31",
+        "recipe_name": "Lemon Myrtle Grilled Barramundi",
+        "recipe_picture": "lemon_myrtle_grilled_barramundi.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Lemon myrtle leaves",
+          "Olive oil",
+          "Lemon wedges",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Marinate barramundi in olive oil, lemon myrtle leaves, and lemon wedges. Grill to perfection, season with salt and pepper.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "32",
+        "recipe_name": "Wattleseed Damper with Golden Syrup",
+        "recipe_picture": "wattleseed_damper_golden_syrup.jpg",
+        "ingredients": [
+          "2 cups self-raising flour",
+          "2 tbsp wattleseed flour",
+          "1/2 tsp salt",
+          "1/2 cup water",
+          "Golden syrup"
+        ],
+        "cooking_method": "Mix flours and salt. Add water, knead, shape into a loaf. Bake until golden. Drizzle with golden syrup.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "33",
+        "recipe_name": "Bunya Nut Pesto Pasta",
+        "recipe_picture": "bunya_nut_pesto_pasta.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Basil leaves",
+          "Parmesan cheese",
+          "Garlic",
+          "Olive oil",
+          "Pasta"
+        ],
+        "cooking_method": "Blend bunya nuts, basil, Parmesan, garlic, and olive oil into a pesto. Toss with cooked pasta.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "34",
+        "recipe_name": "Quandong Cheesecake",
+        "recipe_picture": "quandong_cheesecake.jpg",
+        "ingredients": [
+          "Quandong fruit",
+          "Cream cheese",
+          "Sugar",
+          "Eggs",
+          "Graham cracker crust"
+        ],
+        "cooking_method": "Blend quandong fruit into a puree. Mix with cream cheese, sugar, and eggs. Pour into a graham cracker crust and bake.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "35",
+        "recipe_name": "Macadamia and Finger Lime Salad",
+        "recipe_picture": "macadamia_finger_lime_salad.jpg",
+        "ingredients": [
+          "Macadamia nuts",
+          "Mixed greens",
+          "Finger limes",
+          "Olive oil",
+          "Honey",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Toast macadamia nuts, toss with mixed greens, finger limes, olive oil, honey, salt, and pepper.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "36",
+        "recipe_name": "Kangaroo Sausages with Bush Tomato Chutney",
+        "recipe_picture": "kangaroo_sausages_bush_tomato_chutney.jpg",
+        "ingredients": [
+          "Kangaroo sausages",
+          "Bush tomato chutney",
+          "Rolls",
+          "Onion rings",
+          "Lettuce"
+        ],
+        "cooking_method": "Grill kangaroo sausages, serve in rolls with bush tomato chutney, onion rings, and lettuce.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "37",
+        "recipe_name": "Pumpkin and Bunya Nut Soup",
+        "recipe_picture": "pumpkin_bunya_nut_soup.jpg",
+        "ingredients": [
+          "Pumpkin",
+          "Bunya nuts",
+          "Onion, chopped",
+          "Vegetable broth",
+          "Cream",
+          "Nutmeg, salt, and pepper"
+        ],
+        "cooking_method": "Roast pumpkin and bunya nuts. Sauté onion, add roasted ingredients, vegetable broth, cream, and season with nutmeg, salt, and pepper.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "38",
+        "recipe_name": "Emu Steak with Lemon Myrtle Butter",
+        "recipe_picture": "emu_steak_lemon_myrtle_butter.jpg",
+        "ingredients": [
+          "4 emu steaks",
+          "Lemon myrtle leaves",
+          "Butter",
+          "Lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Sear emu steaks, top with lemon myrtle butter made with lemon myrtle leaves, butter, lemon juice, salt, and pepper.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "39",
+        "recipe_name": "Kakadu Plum Sorbet",
+        "recipe_picture": "kakadu_plum_sorbet.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Sugar",
+          "Lemon juice",
+          "Water"
+        ],
+        "cooking_method": "Blend Kakadu plums, sugar, lemon juice, and water. Freeze and serve as a refreshing sorbet.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "40",
+        "recipe_name": "Wild Rosella Jam",
+        "recipe_picture": "wild_rosella_jam.jpg",
+        "ingredients": [
+          "Wild rosella fruits",
+          "Sugar",
+          "Lemon juice",
+          "Water"
+        ],
+        "cooking_method": "Simmer wild rosella fruits with sugar, lemon juice, and water until it thickens into a delightful jam.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "4",
+    "chef_picture": "chef4.jpg",
+    "chef_name": "Sophie Adams",
+    "chef_bio": "Bringing a modern twist to traditional Australian cuisine.",
+    "chef_description": "Innovative chef with a passion for Australian gastronomy.",
+    "years_of_experience": 14,
+    "number_of_recipes": 10,
+    "likes": 5200,
+    "recipes": [
+      {
+        "recipe_id": "41",
+        "recipe_name": "Crocodile Spring Rolls",
+        "recipe_picture": "crocodile_spring_rolls.jpg",
+        "ingredients": [
+          "Crocodile meat, thinly sliced",
+          "Rice paper wrappers",
+          "Assorted vegetables",
+          "Mint leaves",
+          "Hoisin sauce"
+        ],
+        "cooking_method": "Wrap crocodile meat, vegetables, and mint leaves in rice paper wrappers. Serve with hoisin sauce for dipping.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "42",
+        "recipe_name": "Eucalyptus-Infused Grilled Chicken",
+        "recipe_picture": "eucalyptus_grilled_chicken.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Eucalyptus leaves",
+          "Olive oil",
+          "Lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Marinate chicken with eucalyptus leaves, olive oil, lemon juice, salt, and pepper. Grill to perfection.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "43",
+        "recipe_name": "Macadamia and Finger Lime Cheesecake",
+        "recipe_picture": "macadamia_finger_lime_cheesecake.jpg",
+        "ingredients": [
+          "Macadamia nuts",
+          "Finger limes",
+          "Cream cheese",
+          "Sugar",
+          "Eggs",
+          "Graham cracker crust"
+        ],
+        "cooking_method": "Blend macadamia nuts, finger limes, cream cheese, sugar, and eggs. Pour into a graham cracker crust and bake.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "44",
+        "recipe_name": "Kakadu Plum Glazed Duck",
+        "recipe_picture": "kakadu_plum_glazed_duck.jpg",
+        "ingredients": [
+          "Duck breasts",
+          "Kakadu plum sauce",
+          "Ginger",
+          "Soy sauce",
+          "Rice vinegar",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Sear duck breasts, glaze with Kakadu plum sauce, ginger, soy sauce, rice vinegar, salt, and pepper.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "45",
+        "recipe_name": "Barramundi with Finger Lime Beurre Blanc",
+        "recipe_picture": "barramundi_finger_lime_beurre_blanc.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Finger limes",
+          "Butter",
+          "White wine",
+          "Cream",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Pan-fry barramundi, serve with a beurre blanc sauce made with finger limes, butter, white wine, cream, salt, and pepper.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "46",
+        "recipe_name": "Lemon Myrtle Crusted Lamb Chops",
+        "recipe_picture": "lemon_myrtle_lamb_chops.jpg",
+        "ingredients": [
+          "Lamb chops",
+          "Lemon myrtle leaves",
+          "Breadcrumbs",
+          "Egg",
+          "Olive oil",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Coat lamb chops with a mixture of lemon myrtle leaves, breadcrumbs, and egg. Sauté in olive oil. Season with salt and pepper.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "47",
+        "recipe_name": "Bunya Nut Ravioli",
+        "recipe_picture": "bunya_nut_ravioli.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Ravioli pasta",
+          "Sage leaves",
+          "Butter",
+          "Parmesan cheese",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Blend bunya nuts into a filling, stuff ravioli, and serve with sage leaves, browned butter, Parmesan cheese, salt, and pepper.",
+        "ratings": 4.6
+      },
+      {
+        "recipe_id": "48",
+        "recipe_name": "Emu and Wild Rice Pilaf",
+        "recipe_picture": "emu_wild_rice_pilaf.jpg",
+        "ingredients": [
+          "Emu steaks, cubed",
+          "Wild rice",
+          "Mixed vegetables",
+          "Chicken broth",
+          "Spices"
+        ],
+        "cooking_method": "Sear emu steaks, cook wild rice with mixed vegetables, chicken broth, spices. Serve as a pilaf.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "49",
+        "recipe_name": "Bush Tomato and Quandong Chutney",
+        "recipe_picture": "bush_tomato_quandong_chutney.jpg",
+        "ingredients": [
+          "Bush tomatoes",
+          "Quandong fruits",
+          "Onion, minced",
+          "Vinegar",
+          "Spices",
+          "Sugar"
+        ],
+        "cooking_method": "Simmer bush tomatoes, Quandong fruits, onion, vinegar, spices, and sugar. Cook until thickened. Serve as a condiment.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "50",
+        "recipe_name": "Wild Rosella Sorbet",
+        "recipe_picture": "wild_rosella_sorbet.jpg",
+        "ingredients": [
+          "Wild rosella fruits",
+          "Sugar",
+          "Lemon juice",
+          "Water"
+        ],
+        "cooking_method": "Blend wild rosella fruits, sugar, lemon juice, and water. Freeze and serve as a delightful sorbet.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "5",
+    "chef_picture": "chef5.jpg",
+    "chef_name": "David Walker",
+    "chef_bio": "Exploring the regional flavors of Australia one dish at a time.",
+    "chef_description": "Devoted to showcasing the rich diversity of Australian cuisine.",
+    "years_of_experience": 20,
+    "number_of_recipes": 10,
+    "likes": 6000,
+    "recipes": [
+      {
+        "recipe_id": "51",
+        "recipe_name": "Kangaroo and Macadamia Stir-Fry",
+        "recipe_picture": "kangaroo_macadamia_stir_fry.jpg",
+        "ingredients": [
+          "500g kangaroo meat",
+          "Macadamia nuts",
+          "Assorted vegetables",
+          "Soy sauce",
+          "Ginger",
+          "Rice noodles"
+        ],
+        "cooking_method": "Stir-fry kangaroo meat, macadamia nuts, assorted vegetables, soy sauce, and ginger. Serve over rice noodles.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "52",
+        "recipe_name": "Wattleseed-Crusted Emu Steak",
+        "recipe_picture": "wattleseed_crusted_emu_steak.jpg",
+        "ingredients": [
+          "4 emu steaks",
+          "Wattleseed",
+          "Olive oil",
+          "Lemon zest",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Coat emu steaks with wattleseed, olive oil, lemon zest, salt, and pepper. Sear to your liking.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "53",
+        "recipe_name": "Bush Tomato and Macadamia Dip",
+        "recipe_picture": "bush_tomato_macadamia_dip.jpg",
+        "ingredients": [
+          "Bush tomatoes",
+          "Macadamia nuts",
+          "Garlic",
+          "Olive oil",
+          "Lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Blend bush tomatoes, macadamia nuts, garlic, olive oil, lemon juice, salt, and pepper into a flavorful dip.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "54",
+        "recipe_name": "Barramundi with Davidson Plum Sauce",
+        "recipe_picture": "barramundi_davidson_plum_sauce.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Davidson plum sauce",
+          "Lemon zest",
+          "Butter",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Pan-fry barramundi, serve with Davidson plum sauce, lemon zest, and a knob of butter. Season with salt and pepper.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "55",
+        "recipe_name": "Lemon Myrtle and Aniseed Myrtle Tea",
+        "recipe_picture": "lemon_myrtle_aniseed_myrtle_tea.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Aniseed myrtle leaves",
+          "Hot water",
+          "Honey"
+        ],
+        "cooking_method": "Infuse hot water with lemon myrtle and aniseed myrtle leaves. Sweeten with honey for a unique Australian herbal tea.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "56",
+        "recipe_name": "Bunya Nut and Pumpkin Risotto",
+        "recipe_picture": "bunya_nut_pumpkin_risotto.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Arborio rice",
+          "Pumpkin cubes",
+          "Chicken broth",
+          "White wine",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Toast Arborio rice, add pumpkin, and cook with chicken broth, white wine, and bunya nuts. Stir in Parmesan cheese.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "57",
+        "recipe_name": "Lemon Myrtle and Macadamia Biscuits",
+        "recipe_picture": "lemon_myrtle_macadamia_biscuits.jpg",
+        "ingredients": [
+          "Macadamia nuts",
+          "Lemon myrtle leaves",
+          "Butter",
+          "Flour",
+          "Sugar",
+          "Egg"
+        ],
+        "cooking_method": "Blend macadamia nuts and lemon myrtle leaves into cookie dough. Bake into delicious biscuits.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "58",
+        "recipe_name": "Quandong and Finger Lime Muffins",
+        "recipe_picture": "quandong_finger_lime_muffins.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Finger limes",
+          "Flour",
+          "Sugar",
+          "Milk",
+          "Eggs"
+        ],
+        "cooking_method": "Combine Quandong fruits and finger limes into muffin batter. Bake into flavorful muffins.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "59",
+        "recipe_name": "Bush Tomato and Roasted Garlic Hummus",
+        "recipe_picture": "bush_tomato_roasted_garlic_hummus.jpg",
+        "ingredients": [
+          "Bush tomatoes",
+          "Roasted garlic",
+          "Chickpeas",
+          "Tahini",
+          "Lemon juice",
+          "Olive oil"
+        ],
+        "cooking_method": "Blend bush tomatoes, roasted garlic, chickpeas, tahini, lemon juice, and olive oil into a tasty hummus.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "60",
+        "recipe_name": "Kangaroo Pie with Wild Berry Sauce",
+        "recipe_picture": "kangaroo_pie_wild_berry_sauce.jpg",
+        "ingredients": [
+          "Kangaroo meat",
+          "Wild berry sauce",
+          "Puff pastry",
+          "Egg wash",
+          "Rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Cook kangaroo meat, place in puff pastry, bake until golden. Serve with wild berry sauce and garnish with rosemary.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "6",
+    "chef_picture": "chef6.jpg",
+    "chef_name": "Sarah Mitchell",
+    "chef_bio": "Exploring the diverse flavors of the Australian outback.",
+    "chef_description": "Passionate about using native Australian ingredients in her dishes.",
+    "years_of_experience": 12,
+    "number_of_recipes": 10,
+    "likes": 4600,
+    "recipes": [
+      {
+        "recipe_id": "61",
+        "recipe_name": "Emu and Wattleseed Pizza",
+        "recipe_picture": "emu_wattleseed_pizza.jpg",
+        "ingredients": [
+          "Pizza dough",
+          "Emu meat",
+          "Wattleseed",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Fresh herbs"
+        ],
+        "cooking_method": "Top pizza dough with tomato sauce, emu meat, wattleseed, mozzarella cheese, and fresh herbs. Bake until golden.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "62",
+        "recipe_name": "Kakadu Plum Sorbet",
+        "recipe_picture": "kakadu_plum_sorbet.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Sugar",
+          "Lemon juice",
+          "Water"
+        ],
+        "cooking_method": "Blend Kakadu plums, sugar, lemon juice, and water. Freeze and serve as a refreshing sorbet.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "63",
+        "recipe_name": "Wild Rosella and Macadamia Pancakes",
+        "recipe_picture": "wild_rosella_macadamia_pancakes.jpg",
+        "ingredients": [
+          "Wild rosella fruits",
+          "Macadamia nuts",
+          "Pancake mix",
+          "Milk",
+          "Maple syrup"
+        ],
+        "cooking_method": "Blend wild rosella fruits and macadamia nuts into pancake batter. Cook fluffy pancakes and serve with maple syrup.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "64",
+        "recipe_name": "Lemon Myrtle and Macadamia Muffins",
+        "recipe_picture": "lemon_myrtle_macadamia_muffins.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Flour",
+          "Butter",
+          "Milk",
+          "Sugar"
+        ],
+        "cooking_method": "Combine lemon myrtle leaves and macadamia nuts into muffin batter. Bake into flavorful muffins.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "65",
+        "recipe_name": "Quandong and Macadamia Nut Tart",
+        "recipe_picture": "quandong_macadamia_nut_tart.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Pastry crust",
+          "Cream",
+          "Sugar",
+          "Eggs"
+        ],
+        "cooking_method": "Combine Quandong fruits, macadamia nuts, cream, sugar, and eggs. Fill a pastry crust and bake into a delicious tart.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "66",
+        "recipe_name": "Kangaroo and Wild Rice Pilaf",
+        "recipe_picture": "kangaroo_wild_rice_pilaf.jpg",
+        "ingredients": [
+          "Kangaroo meat",
+          "Wild rice",
+          "Mixed vegetables",
+          "Chicken broth",
+          "Spices"
+        ],
+        "cooking_method": "Grill kangaroo meat, toss with cooked wild rice, mixed vegetables, chicken broth, and spices. Serve as a pilaf.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "67",
+        "recipe_name": "Wattleseed-Crusted Barramundi",
+        "recipe_picture": "wattleseed_crusted_barramundi.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Wattleseed",
+          "Olive oil",
+          "Lemon zest",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Coat barramundi fillets with wattleseed, olive oil, lemon zest, salt, and pepper. Sear to perfection.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "68",
+        "recipe_name": "Bunya Nut and Davidson Plum Salsa",
+        "recipe_picture": "bunya_nut_davidson_plum_salsa.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Davidson plums",
+          "Red onion",
+          "Cilantro",
+          "Lime juice",
+          "Chili peppers"
+        ],
+        "cooking_method": "Dice Bunya nuts and Davidson plums, mix with red onion, cilantro, lime juice, and chili peppers. Serve as a zesty salsa.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "69",
+        "recipe_name": "Eucalyptus and Lemon Myrtle Iced Tea",
+        "recipe_picture": "eucalyptus_lemon_myrtle_iced_tea.jpg",
+        "ingredients": [
+          "Eucalyptus leaves",
+          "Lemon myrtle leaves",
+          "Boiling water",
+          "Honey",
+          "Lemon slices"
+        ],
+        "cooking_method": "Infuse boiling water with eucalyptus and lemon myrtle leaves. Sweeten with honey, chill, and garnish with lemon slices for a refreshing iced tea.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "70",
+        "recipe_name": "Kakadu Plum and Finger Lime Cheesecake",
+        "recipe_picture": "kakadu_plum_finger_lime_cheesecake.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Finger limes",
+          "Cream cheese",
+          "Sugar",
+          "Eggs",
+          "Graham cracker crust"
+        ],
+        "cooking_method": "Blend Kakadu plums, finger limes, cream cheese, sugar, and eggs. Pour into a graham cracker crust and bake.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "7",
+    "chef_picture": "chef7.jpg",
+    "chef_name": "Andrew Baker",
+    "chef_bio": "A culinary journey through the flavors of Australia.",
+    "chef_description": "Committed to preserving and celebrating Australian culinary traditions.",
+    "years_of_experience": 18,
+    "number_of_recipes": 10,
+    "likes": 5800,
+    "recipes": [
+      {
+        "recipe_id": "71",
+        "recipe_name": "Barramundi with Finger Lime Butter",
+        "recipe_picture": "barramundi_finger_lime_butter.jpg",
+        "ingredients": [
+          "4 barramundi fillets",
+          "Finger limes",
+          "Butter",
+          "Lemon juice",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Pan-fry barramundi, serve with finger lime butter made with finger limes, butter, lemon juice, salt, and pepper.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "72",
+        "recipe_name": "Lemon Myrtle and Macadamia Crusted Lamb",
+        "recipe_picture": "lemon_myrtle_macadamia_crusted_lamb.jpg",
+        "ingredients": [
+          "Lamb chops",
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Bread crumbs",
+          "Egg wash",
+          "Rosemary"
+        ],
+        "cooking_method": "Coat lamb chops with a mixture of lemon myrtle leaves, macadamia nuts, bread crumbs, and rosemary. Bake until golden.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "73",
+        "recipe_name": "Kangaroo and Bush Tomato Sausages",
+        "recipe_picture": "kangaroo_bush_tomato_sausages.jpg",
+        "ingredients": [
+          "Kangaroo meat",
+          "Bush tomatoes",
+          "Onion",
+          "Spices",
+          "Sausage casings",
+          "BBQ grill"
+        ],
+        "cooking_method": "Mix kangaroo meat with bush tomatoes, onion, and spices. Stuff into sausage casings and grill on the BBQ.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "74",
+        "recipe_name": "Quandong and Macadamia Nut Chutney",
+        "recipe_picture": "quandong_macadamia_nut_chutney.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Onion, minced",
+          "Vinegar",
+          "Spices",
+          "Sugar"
+        ],
+        "cooking_method": "Simmer Quandong fruits, macadamia nuts, minced onion, vinegar, spices, and sugar. Cook until thickened. Serve as a condiment.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "75",
+        "recipe_name": "Wattleseed and Lemon Myrtle Bread",
+        "recipe_picture": "wattleseed_lemon_myrtle_bread.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Lemon myrtle leaves",
+          "Flour",
+          "Yeast",
+          "Water",
+          "Salt"
+        ],
+        "cooking_method": "Mix wattleseed, lemon myrtle leaves, flour, yeast, water, and salt into bread dough. Bake into a delicious loaf.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "76",
+        "recipe_name": "Kakadu Plum and Bush Tomato Soup",
+        "recipe_picture": "kakadu_plum_bush_tomato_soup.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Bush tomatoes",
+          "Onion, chopped",
+          "Chicken broth",
+          "Cream",
+          "Spices"
+        ],
+        "cooking_method": "Simmer Kakadu plums, bush tomatoes, chopped onion, chicken broth, cream, and spices. Blend into a flavorful soup.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "77",
+        "recipe_name": "Lemon Myrtle and Macadamia Nut Ice Cream",
+        "recipe_picture": "lemon_myrtle_macadamia_ice_cream.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Milk",
+          "Cream",
+          "Sugar",
+          "Egg yolks"
+        ],
+        "cooking_method": "Infuse lemon myrtle leaves and macadamia nuts into milk and cream. Churn with sugar and egg yolks into creamy ice cream.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "78",
+        "recipe_name": "Bunya Nut and Wattleseed Porridge",
+        "recipe_picture": "bunya_nut_wattleseed_porridge.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Wattleseed",
+          "Rolled oats",
+          "Milk",
+          "Honey",
+          "Cinnamon"
+        ],
+        "cooking_method": "Cook Bunya nuts, wattleseed, rolled oats, and milk into a hearty porridge. Sweeten with honey and sprinkle with cinnamon.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "79",
+        "recipe_name": "Bush Tomato and Lemon Myrtle Pasta",
+        "recipe_picture": "bush_tomato_lemon_myrtle_pasta.jpg",
+        "ingredients": [
+          "Bush tomatoes",
+          "Lemon myrtle leaves",
+          "Pasta",
+          "Olive oil",
+          "Parmesan cheese",
+          "Garlic"
+        ],
+        "cooking_method": "Sauté bush tomatoes and lemon myrtle leaves in olive oil. Toss with cooked pasta, Parmesan cheese, and garlic.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "80",
+        "recipe_name": "Emu and Quandong Stir-Fry",
+        "recipe_picture": "emu_quandong_stir_fry.jpg",
+        "ingredients": [
+          "Emu meat",
+          "Quandong fruits",
+          "Assorted vegetables",
+          "Soy sauce",
+          "Ginger",
+          "Rice noodles"
+        ],
+        "cooking_method": "Stir-fry emu meat, quandong fruits, assorted vegetables, soy sauce, and ginger. Serve over rice noodles.",
+        "ratings": 4.9
+      }
+    ]
+  },
+  {
+    "chef_id": "6",
+    "chef_picture": "chef6.jpg",
+    "chef_name": "David Walker",
+    "chef_bio": "Exploring the flavors of the Australian bush and beyond.",
+    "chef_description": "Committed to blending indigenous ingredients with global culinary influences.",
+    "years_of_experience": 18,
+    "number_of_recipes": 10,
+    "likes": 5300,
+    "recipes": [
+      {
+        "recipe_id": "61",
+        "recipe_name": "Lemon Myrtle and Macadamia Nut Chicken",
+        "recipe_picture": "lemon_myrtle_macadamia_chicken.jpg",
+        "ingredients": [
+          "Chicken breast",
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Coconut milk",
+          "Curry spices",
+          "Rice"
+        ],
+        "cooking_method": "Simmer chicken breast in a sauce made with lemon myrtle, macadamia nuts, coconut milk, and curry spices. Serve over rice.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "62",
+        "recipe_name": "Wattleseed and Quandong Smoothie",
+        "recipe_picture": "wattleseed_quandong_smoothie.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Quandong fruits",
+          "Yogurt",
+          "Honey",
+          "Ice",
+          "Lime zest"
+        ],
+        "cooking_method": "Blend wattleseed, quandong fruits, yogurt, honey, ice, and lime zest into a refreshing smoothie.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "63",
+        "recipe_name": "Kakadu Plum and Riberry Muffins",
+        "recipe_picture": "kakadu_plum_riberry_muffins.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Riberry fruits",
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Milk"
+        ],
+        "cooking_method": "Mix Kakadu plums, riberry fruits, flour, sugar, butter, and milk into muffin batter. Bake into delicious muffins.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "64",
+        "recipe_name": "Bunya Nut and Lemon Myrtle Soup",
+        "recipe_picture": "bunya_nut_lemon_myrtle_soup.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Lemon myrtle leaves",
+          "Potatoes",
+          "Onions",
+          "Chicken broth",
+          "Cream"
+        ],
+        "cooking_method": "Create a creamy soup with bunya nuts, lemon myrtle leaves, potatoes, onions, chicken broth, and cream.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "65",
+        "recipe_name": "Quandong and Macadamia Nut Pancakes",
+        "recipe_picture": "quandong_macadamia_pancakes.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Pancake mix",
+          "Milk",
+          "Eggs",
+          "Maple syrup"
+        ],
+        "cooking_method": "Add Quandong fruits and macadamia nuts to pancake mix. Cook into fluffy pancakes and serve with maple syrup.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "66",
+        "recipe_name": "Kangaroo and Wattleseed Kebabs",
+        "recipe_picture": "kangaroo_wattleseed_kebabs.jpg",
+        "ingredients": [
+          "Kangaroo meat",
+          "Wattleseed",
+          "Bell peppers",
+          "Onion",
+          "Marinade",
+          "Skewers"
+        ],
+        "cooking_method": "Marinate kangaroo meat with wattleseed, bell peppers, and onion. Skewer and grill to perfection.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "67",
+        "recipe_name": "Lemon Myrtle and Riberry Cheesecake",
+        "recipe_picture": "lemon_myrtle_riberry_cheesecake.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Riberry fruits",
+          "Cream cheese",
+          "Sugar",
+          "Eggs",
+          "Graham cracker crust"
+        ],
+        "cooking_method": "Make a creamy cheesecake with lemon myrtle leaves, riberry fruits, cream cheese, sugar, eggs, and a graham cracker crust.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "68",
+        "recipe_name": "Emu and Quandong Meatballs",
+        "recipe_picture": "emu_quandong_meatballs.jpg",
+        "ingredients": [
+          "Emu meat",
+          "Quandong fruits",
+          "Breadcrumbs",
+          "Onion",
+          "Spices",
+          "Tomato sauce"
+        ],
+        "cooking_method": "Mix emu meat, quandong fruits, breadcrumbs, onion, and spices into meatballs. Serve with tomato sauce.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "69",
+        "recipe_name": "Wattleseed and Macadamia Nut Bread",
+        "recipe_picture": "wattleseed_macadamia_bread.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Macadamia nuts",
+          "Flour",
+          "Yeast",
+          "Water",
+          "Salt"
+        ],
+        "cooking_method": "Mix wattleseed, macadamia nuts, flour, yeast, water, and salt into bread dough. Bake into a delicious bread loaf.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "70",
+        "recipe_name": "Kakadu Plum and Riberry Jelly",
+        "recipe_picture": "kakadu_plum_riberry_jelly.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Riberry fruits",
+          "Sugar",
+          "Gelatin",
+          "Lemon juice",
+          "Water"
+        ],
+        "cooking_method": "Combine Kakadu plums, riberry fruits, sugar, gelatin, lemon juice, and water to make a delightful jelly.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "7",
+    "chef_picture": "chef7.jpg",
+    "chef_name": "Sophia White",
+    "chef_bio": "Exploring the coastal delights of Australia's seafood.",
+    "chef_description": "Dedicated to creating seafood dishes with a modern twist.",
+    "years_of_experience": 15,
+    "number_of_recipes": 10,
+    "likes": 4800,
+    "recipes": [
+      {
+        "recipe_id": "71",
+        "recipe_name": "Grilled Australian Lobster",
+        "recipe_picture": "grilled_lobster.jpg",
+        "ingredients": [
+          "Australian lobster tails",
+          "Garlic butter",
+          "Lemon wedges",
+          "Fresh herbs",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Grill Australian lobster tails with garlic butter. Serve with lemon wedges, fresh herbs, and a pinch of salt and pepper.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "72",
+        "recipe_name": "Oysters Kilpatrick",
+        "recipe_picture": "oysters_kilpatrick.jpg",
+        "ingredients": [
+          "Sydney Rock oysters",
+          "Bacon",
+          "Worcestershire sauce",
+          "Tomato ketchup",
+          "Parsley",
+          "Lemon wedges"
+        ],
+        "cooking_method": "Top Sydney Rock oysters with bacon, Worcestershire sauce, and tomato ketchup. Grill until sizzling. Garnish with parsley and lemon wedges.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "73",
+        "recipe_name": "Crispy Skin Barramundi",
+        "recipe_picture": "crispy_skin_barramundi.jpg",
+        "ingredients": [
+          "Barramundi fillets",
+          "Skin-on",
+          "Lemon zest",
+          "Olive oil",
+          "Butter",
+          "Asparagus"
+        ],
+        "cooking_method": "Pan-sear barramundi fillets skin-on with lemon zest and olive oil until skin is crispy. Serve with asparagus and butter.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "74",
+        "recipe_name": "Sydney Seafood Platter",
+        "recipe_picture": "seafood_platter.jpg",
+        "ingredients": [
+          "Prawns",
+          "Oysters",
+          "Mussels",
+          "Squid",
+          "Lemon wedges",
+          "Dipping sauces"
+        ],
+        "cooking_method": "Create a lavish seafood platter with prawns, oysters, mussels, squid, lemon wedges, and an assortment of dipping sauces.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "75",
+        "recipe_name": "Citrus and Herb Marinated Swordfish",
+        "recipe_picture": "citrus_herb_swordfish.jpg",
+        "ingredients": [
+          "Swordfish steaks",
+          "Lime juice",
+          "Orange zest",
+          "Fresh herbs",
+          "Garlic",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Marinate swordfish steaks in a mixture of lime juice, orange zest, fresh herbs, garlic, salt, and pepper. Grill to perfection.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "76",
+        "recipe_name": "Australian Seafood Paella",
+        "recipe_picture": "seafood_paella.jpg",
+        "ingredients": [
+          "Prawns",
+          "Mussels",
+          "Squid",
+          "Barramundi fillets",
+          "Saffron rice",
+          "Bell peppers"
+        ],
+        "cooking_method": "Prepare a flavorful seafood paella with prawns, mussels, squid, barramundi fillets, saffron rice, and bell peppers.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "77",
+        "recipe_name": "Barramundi Ceviche",
+        "recipe_picture": "barramundi_ceviche.jpg",
+        "ingredients": [
+          "Barramundi fillets",
+          "Lime juice",
+          "Red onion",
+          "Cilantro",
+          "Chili",
+          "Salt"
+        ],
+        "cooking_method": "Dice barramundi fillets and marinate in lime juice. Mix with red onion, cilantro, chili, and a pinch of salt to make ceviche.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "78",
+        "recipe_name": "Tasmanian Salmon Sushi",
+        "recipe_picture": "salmon_sushi.jpg",
+        "ingredients": [
+          "Tasmanian salmon",
+          "Sushi rice",
+          "Nori seaweed",
+          "Avocado",
+          "Soy sauce",
+          "Wasabi"
+        ],
+        "cooking_method": "Create delicious salmon sushi with Tasmanian salmon, sushi rice, nori seaweed, avocado, soy sauce, and wasabi.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "79",
+        "recipe_name": "Sydney Rock Oyster Shooters",
+        "recipe_picture": "oyster_shooters.jpg",
+        "ingredients": [
+          "Sydney Rock oysters",
+          "Vodka",
+          "Tomato juice",
+          "Lemon juice",
+          "Hot sauce",
+          "Celery"
+        ],
+        "cooking_method": "Make oyster shooters with Sydney Rock oysters, vodka, tomato juice, lemon juice, hot sauce, and garnish with celery.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "80",
+        "recipe_name": "Grilled Moreton Bay Bugs",
+        "recipe_picture": "moreton_bay_bugs.jpg",
+        "ingredients": [
+          "Moreton Bay bugs",
+          "Garlic butter",
+          "Lemon wedges",
+          "Fresh herbs",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Grill Moreton Bay bugs with garlic butter. Serve with lemon wedges, fresh herbs, and a pinch of salt and pepper.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "8",
+    "chef_picture": "chef8.jpg",
+    "chef_name": "William Harris",
+    "chef_bio": "Discovering the unique tastes of Australian bush tucker.",
+    "chef_description": "Passionate about preserving and revitalizing traditional Indigenous Australian recipes.",
+    "years_of_experience": 25,
+    "number_of_recipes": 10,
+    "likes": 6700,
+    "recipes": [
+      {
+        "recipe_id": "81",
+        "recipe_name": "Barramundi with Lemon Myrtle Butter",
+        "recipe_picture": "barramundi_lemon_myrtle_butter.jpg",
+        "ingredients": [
+          "Barramundi fillets",
+          "Lemon myrtle butter",
+          "Macadamia nuts",
+          "Asparagus",
+          "Lemon wedges",
+          "Salt and pepper"
+        ],
+        "cooking_method": "Pan-sear barramundi fillets and drizzle with lemon myrtle butter. Garnish with crushed macadamia nuts, asparagus, and lemon wedges.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "82",
+        "recipe_name": "Wattleseed and Quandong Ice Cream",
+        "recipe_picture": "wattleseed_quandong_ice_cream.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Quandong fruits",
+          "Milk",
+          "Cream",
+          "Sugar",
+          "Egg yolks"
+        ],
+        "cooking_method": "Infuse wattleseed and quandong fruits into milk and cream. Churn with sugar and egg yolks into creamy ice cream.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "83",
+        "recipe_name": "Lemon Myrtle and Macadamia Nut Crusted Lamb",
+        "recipe_picture": "lemon_myrtle_macadamia_lamb.jpg",
+        "ingredients": [
+          "Lamb chops",
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Breadcrumbs",
+          "Rosemary",
+          "Potatoes"
+        ],
+        "cooking_method": "Coat lamb chops with a mixture of lemon myrtle leaves, macadamia nuts, breadcrumbs, and rosemary. Serve with roasted potatoes.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "84",
+        "recipe_name": "Quandong and Macadamia Nut Chutney",
+        "recipe_picture": "quandong_macadamia_chutney.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Onion",
+          "Vinegar",
+          "Spices",
+          "Sugar"
+        ],
+        "cooking_method": "Simmer Quandong fruits, macadamia nuts, onion, vinegar, spices, and sugar. Cook until thickened. Serve as a condiment.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "85",
+        "recipe_name": "Kakadu Plum and Riberry Pancakes",
+        "recipe_picture": "kakadu_plum_riberry_pancakes.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Riberry fruits",
+          "Pancake mix",
+          "Milk",
+          "Eggs",
+          "Maple syrup"
+        ],
+        "cooking_method": "Add Kakadu plums and riberry fruits to pancake mix. Cook into fluffy pancakes and serve with maple syrup.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "86",
+        "recipe_name": "Bunya Nut and Macadamia Nut Porridge",
+        "recipe_picture": "bunya_macadamia_porridge.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Macadamia nuts",
+          "Oats",
+          "Milk",
+          "Honey",
+          "Cinnamon"
+        ],
+        "cooking_method": "Make a nutritious porridge with bunya nuts, macadamia nuts, oats, milk, honey, and a dash of cinnamon.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "87",
+        "recipe_name": "Lemon Myrtle and Riberry Sorbet",
+        "recipe_picture": "lemon_myrtle_riberry_sorbet.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Riberry fruits",
+          "Sugar",
+          "Water",
+          "Lemon juice",
+          "Salt"
+        ],
+        "cooking_method": "Prepare a refreshing sorbet with lemon myrtle leaves, riberry fruits, sugar, water, lemon juice, and a pinch of salt.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "88",
+        "recipe_name": "Quandong and Macadamia Nut Tart",
+        "recipe_picture": "quandong_macadamia_tart.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Pastry crust",
+          "Eggs",
+          "Sugar",
+          "Vanilla extract"
+        ],
+        "cooking_method": "Bake a delicious tart with quandong fruits, macadamia nuts, pastry crust, eggs, sugar, and a touch of vanilla extract.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "89",
+        "recipe_name": "Wattleseed and Lemon Myrtle Tea",
+        "recipe_picture": "wattleseed_lemon_myrtle_tea.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Lemon myrtle leaves",
+          "Boiling water",
+          "Honey",
+          "Lemon slices",
+          "Tea infuser"
+        ],
+        "cooking_method": "Brew a fragrant tea with wattleseed and lemon myrtle leaves. Sweeten with honey and garnish with lemon slices.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "90",
+        "recipe_name": "Kakadu Plum and Riberry Panna Cotta",
+        "recipe_picture": "kakadu_plum_riberry_panna_cotta.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Riberry fruits",
+          "Cream",
+          "Sugar",
+          "Gelatin",
+          "Vanilla bean"
+        ],
+        "cooking_method": "Prepare a creamy panna cotta with Kakadu plums, riberry fruits, cream, sugar, gelatin, and a vanilla bean infusion.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "9",
+    "chef_picture": "chef9.jpg",
+    "chef_name": "Ella Roberts",
+    "chef_bio": "Celebrating the rich diversity of Australian culinary traditions.",
+    "chef_description": "Committed to exploring the fusion of global and Indigenous Australian flavors.",
+    "years_of_experience": 11,
+    "number_of_recipes": 10,
+    "likes": 5200,
+    "recipes": [
+      {
+        "recipe_id": "91",
+        "recipe_name": "Kangaroo and Quandong Salad",
+        "recipe_picture": "kangaroo_quandong_salad.jpg",
+        "ingredients": [
+          "Kangaroo steak",
+          "Quandong fruits",
+          "Mixed greens",
+          "Red onion",
+          "Balsamic vinaigrette",
+          "Walnuts"
+        ],
+        "cooking_method": "Grill kangaroo steak and serve over a bed of mixed greens. Garnish with Quandong fruits, red onion, balsamic vinaigrette, and walnuts.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "92",
+        "recipe_name": "Wattleseed and Macadamia Nut Brownies",
+        "recipe_picture": "wattleseed_macadamia_brownies.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Macadamia nuts",
+          "Chocolate",
+          "Butter",
+          "Flour",
+          "Sugar"
+        ],
+        "cooking_method": "Mix wattleseed and macadamia nuts into brownie batter. Bake into rich and indulgent brownies.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "93",
+        "recipe_name": "Lemon Myrtle and Riberry Roast Chicken",
+        "recipe_picture": "lemon_myrtle_riberry_chicken.jpg",
+        "ingredients": [
+          "Whole chicken",
+          "Lemon myrtle leaves",
+          "Riberry fruits",
+          "Garlic",
+          "Olive oil",
+          "Spices"
+        ],
+        "cooking_method": "Roast a whole chicken with lemon myrtle leaves, riberry fruits, garlic, olive oil, and a blend of spices.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "94",
+        "recipe_name": "Quandong and Macadamia Nut Salad",
+        "recipe_picture": "quandong_macadamia_salad.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Macadamia nuts",
+          "Mixed greens",
+          "Red onion",
+          "Balsamic vinaigrette",
+          "Feta cheese"
+        ],
+        "cooking_method": "Create a refreshing salad with Quandong fruits, macadamia nuts, mixed greens, red onion, balsamic vinaigrette, and crumbled feta cheese.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "95",
+        "recipe_name": "Kakadu Plum and Wattleseed Loaf",
+        "recipe_picture": "kakadu_plum_wattleseed_loaf.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Wattleseed",
+          "Flour",
+          "Yeast",
+          "Water",
+          "Salt"
+        ],
+        "cooking_method": "Mix Kakadu plums, wattleseed, flour, yeast, water, and salt into bread dough. Bake into a flavorful loaf.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "96",
+        "recipe_name": "Wattleseed and Quandong Scones",
+        "recipe_picture": "wattleseed_quandong_scones.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Quandong fruits",
+          "Flour",
+          "Baking powder",
+          "Butter",
+          "Milk"
+        ],
+        "cooking_method": "Bake scones with wattleseed, quandong fruits, flour, baking powder, butter, and milk. Serve with jam and cream.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "97",
+        "recipe_name": "Lemon Myrtle and Macadamia Nut Hummus",
+        "recipe_picture": "lemon_myrtle_macadamia_hummus.jpg",
+        "ingredients": [
+          "Chickpeas",
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Olive oil",
+          "Tahini",
+          "Garlic"
+        ],
+        "cooking_method": "Prepare hummus with chickpeas, lemon myrtle leaves, macadamia nuts, olive oil, tahini, and garlic. Serve with pita bread.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "98",
+        "recipe_name": "Quandong and Riberry Jam",
+        "recipe_picture": "quandong_riberry_jam.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Riberry fruits",
+          "Sugar",
+          "Lemon juice",
+          "Water",
+          "Pectin"
+        ],
+        "cooking_method": "Make a delightful jam with quandong fruits, riberry fruits, sugar, lemon juice, water, and pectin. Perfect for toast and pastries.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "99",
+        "recipe_name": "Kangaroo and Macadamia Nut Stir-Fry",
+        "recipe_picture": "kangaroo_macadamia_stirfry.jpg",
+        "ingredients": [
+          "Kangaroo strips",
+          "Macadamia nuts",
+          "Vegetables",
+          "Soy sauce",
+          "Ginger",
+          "Rice"
+        ],
+        "cooking_method": "Stir-fry kangaroo strips with macadamia nuts, vegetables, soy sauce, and ginger. Serve over a bed of rice.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "100",
+        "recipe_name": "Wattleseed and Lemon Myrtle Biscuits",
+        "recipe_picture": "wattleseed_lemon_myrtle_biscuits.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Lemon myrtle leaves",
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Egg"
+        ],
+        "cooking_method": "Bake biscuits with wattleseed, lemon myrtle leaves, flour, sugar, butter, and egg. Perfect with a cup of tea.",
+        "ratings": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": "10",
+    "chef_picture": "chef10.jpg",
+    "chef_name": "Oliver Nelson",
+    "chef_bio": "Rediscovering the forgotten flavors of Australian history.",
+    "chef_description": "Dedicated to reviving age-old Indigenous Australian recipes with a modern twist.",
+    "years_of_experience": 14,
+    "number_of_recipes": 10,
+    "likes": 5900,
+    "recipes": [
+      {
+        "recipe_id": "101",
+        "recipe_name": "Bunya Nut and Macadamia Nut Soup",
+        "recipe_picture": "bunya_macadamia_nut_soup.jpg",
+        "ingredients": [
+          "Bunya nuts",
+          "Macadamia nuts",
+          "Potatoes",
+          "Onions",
+          "Vegetable broth",
+          "Coconut milk"
+        ],
+        "cooking_method": "Create a creamy soup with bunya nuts, macadamia nuts, potatoes, onions, vegetable broth, and coconut milk.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "102",
+        "recipe_name": "Lemon Myrtle and Riberry Roast Lamb",
+        "recipe_picture": "lemon_myrtle_riberry_lamb.jpg",
+        "ingredients": [
+          "Lamb roast",
+          "Lemon myrtle leaves",
+          "Riberry fruits",
+          "Garlic",
+          "Rosemary",
+          "Potatoes"
+        ],
+        "cooking_method": "Roast lamb with a mixture of lemon myrtle leaves, riberry fruits, garlic, rosemary, and potatoes.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "103",
+        "recipe_name": "Quandong and Wattleseed Pancakes",
+        "recipe_picture": "quandong_wattleseed_pancakes.jpg",
+        "ingredients": [
+          "Quandong fruits",
+          "Wattleseed",
+          "Pancake mix",
+          "Milk",
+          "Eggs",
+          "Maple syrup"
+        ],
+        "cooking_method": "Add Quandong fruits and wattleseed to pancake mix. Cook into fluffy pancakes and serve with maple syrup.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "104",
+        "recipe_name": "Kakadu Plum and Macadamia Nut Crusted Pork",
+        "recipe_picture": "kakadu_plum_macadamia_pork.jpg",
+        "ingredients": [
+          "Pork chops",
+          "Kakadu plums",
+          "Macadamia nuts",
+          "Breadcrumbs",
+          "Sage",
+          "Mashed potatoes"
+        ],
+        "cooking_method": "Coat pork chops with a mixture of Kakadu plums, macadamia nuts, breadcrumbs, sage. Serve with mashed potatoes.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "105",
+        "recipe_name": "Emu and Quandong Curry",
+        "recipe_picture": "emu_quandong_curry.jpg",
+        "ingredients": [
+          "Emu meat",
+          "Quandong fruits",
+          "Curry spices",
+          "Coconut milk",
+          "Rice",
+          "Cilantro"
+        ],
+        "cooking_method": "Prepare a flavorful curry with emu meat, quandong fruits, curry spices, and coconut milk. Serve with rice and garnish with cilantro.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "106",
+        "recipe_name": "Lemon Myrtle and Macadamia Nut Cookies",
+        "recipe_picture": "lemon_myrtle_macadamia_cookies.jpg",
+        "ingredients": [
+          "Lemon myrtle leaves",
+          "Macadamia nuts",
+          "Flour",
+          "Butter",
+          "Sugar",
+          "Egg"
+        ],
+        "cooking_method": "Bake delicious cookies with lemon myrtle leaves, macadamia nuts, flour, butter, sugar, and egg.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "107",
+        "recipe_name": "Kangaroo and Wattleseed Stew",
+        "recipe_picture": "kangaroo_wattleseed_stew.jpg",
+        "ingredients": [
+          "Kangaroo meat",
+          "Wattleseed",
+          "Carrots",
+          "Potatoes",
+          "Onions",
+          "Beef broth"
+        ],
+        "cooking_method": "Simmer kangaroo meat with wattleseed, carrots, potatoes, onions, and beef broth to make a hearty stew.",
+        "ratings": 4.8
+      },
+      {
+        "recipe_id": "108",
+        "recipe_name": "Riberry and Macadamia Nut Muffins",
+        "recipe_picture": "riberry_macadamia_muffins.jpg",
+        "ingredients": [
+          "Riberry fruits",
+          "Macadamia nuts",
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Milk"
+        ],
+        "cooking_method": "Mix riberry fruits, macadamia nuts, flour, sugar, butter, and milk into muffin batter. Bake into delectable muffins.",
+        "ratings": 4.9
+      },
+      {
+        "recipe_id": "109",
+        "recipe_name": "Wattleseed and Lemon Myrtle Pancakes",
+        "recipe_picture": "wattleseed_lemon_myrtle_pancakes.jpg",
+        "ingredients": [
+          "Wattleseed",
+          "Lemon myrtle leaves",
+          "Pancake mix",
+          "Milk",
+          "Eggs",
+          "Maple syrup"
+        ],
+        "cooking_method": "Add wattleseed and lemon myrtle leaves to pancake mix. Cook into fluffy pancakes and serve with maple syrup.",
+        "ratings": 4.7
+      },
+      {
+        "recipe_id": "110",
+        "recipe_name": "Kakadu Plum and Quandong Sorbet",
+        "recipe_picture": "kakadu_plum_quandong_sorbet.jpg",
+        "ingredients": [
+          "Kakadu plums",
+          "Quandong fruits",
+          "Sugar",
+          "Water",
+          "Lemon juice",
+          "Salt"
+        ],
+        "cooking_method": "Prepare a refreshing sorbet with Kakadu plums, quandong fruits, sugar, water, lemon juice, and a pinch of salt.",
+        "ratings": 4.8
+      }
+    ]
+  }
+]
