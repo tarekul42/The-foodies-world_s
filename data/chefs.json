@@ -1,7 +1,7 @@
 [
   {
     "chef_id": "1",
-    "chef_picture": "chef1.jpg",
+    "chef_picture": "../Public/chef1.jpg",
     "chef_name": "John Smith",
     "chef_bio": "Passionate about Australian cuisine and bringing local flavors to your table.",
     "chef_description": "Experienced chef specializing in Australian dishes.",
